@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="./Evernight-Lonely.gif" width="350" alt="Evernight GIF">
-</p>
-
-<p align="center">
   <a href="https://github.com/Mizuchi091">GitHub Profile</a> |
   <a href="mailto:justinkylependre@gmail.com">Email</a>
 </p>
@@ -98,5 +94,7 @@ Outside of school, I enjoy gaming, reading manga and manhwa, and watching anime.
 - Email: [justinkylependre@gmail.com](mailto:justinkylependre@gmail.com)
 
 ---
-
+<p align="center">
+  <img src="./Evernight-Lonely.gif" width="350" alt="Evernight GIF">
+</p>
 <p align="center">Thanks for visiting my profile.</p>
