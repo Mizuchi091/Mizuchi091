@@ -1,8 +1,6 @@
 
-<h1 align="center">Justin Kyle Pendre</h1>
-
 <p align="center">
-  BS Computer Engineering Student at ICCT
+  <img src="./Banner.gif" width="800" alt="Justin Kyle Pendre - BS Computer Engineering Student at ICCT">
 </p>
 
 <p align="center">
@@ -24,6 +22,8 @@ I'm interested in databases and Android app development. I have some experience 
 
 Most of what I'm learning comes from school activities and group projects. I'm hoping to improve my skills as I get more hands-on experience.
 
+---
+
 ## Skills and Tools
 
 **Tools I Use**
@@ -41,20 +41,22 @@ Most of what I'm learning comes from school activities and group projects. I'm h
 - Supabase and PostgreSQL
 - Connecting databases to Android applications
 
+---
+
 ## Featured Project
 
 ### Synced N: Church Music Ministry Schedule & Lineup Management System
 
-Synced N is a group project for an Android app that aims to make it easier for church music ministries to organize member availability, worship schedules, song lineups, assignments, and rehearsal information.
+Synced N is a group academic project for an Android app designed to help church music ministries organize member availability, worship schedules, song lineups, assignments, and rehearsal information in one place.
 
-**My Role:** Database Manager
+**My Role: Database Manager**
 
-For this project, my responsibilities include working on the database design and making sure the data is organized properly.
+My role focuses on planning how the app's data should be organized and working with my teammates on the database requirements.
 
-Some of the tasks involved in my role are:
+Some of the tasks related to my role include:
 
 - Planning the database structure based on the app's needs.
-- Creating an Entity-Relationship Diagram (ERD).
+- Designing the Entity-Relationship Diagram (ERD).
 - Identifying the tables, fields, and relationships needed.
 - Planning primary keys and foreign keys.
 - Documenting the database design.
@@ -66,11 +68,29 @@ Some of the tasks involved in my role are:
 
 The final database structure and technology will depend on the project's requirements.
 
+---
+
 ## What I'm Working On Learning
 
 I'm trying to get better at SQL and understand how to design a database properly. I also want to learn more about connecting databases to Android apps and using GitHub to keep project files and documentation organized.
 
+My learning goals include:
+
+- Improving my SQL and database design skills.
+- Learning Firebase and Supabase.
+- Understanding database integration in Android apps.
+- Improving my Git and GitHub workflow.
+- Learning to document technical work clearly.
+
 I still have a lot to learn, but I want to use my school projects as a way to practice and improve.
+
+---
+
+## Hobbies
+
+Outside of school, I enjoy gaming, reading manga and manhwa, and watching anime. These are some of the things I like doing during my free time.
+
+---
 
 ## Contact
 
@@ -79,6 +99,4 @@ I still have a lot to learn, but I want to use my school projects as a way to pr
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile.
-</p>
+<p align="center">Thanks for visiting my profile.</p>
