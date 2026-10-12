@@ -10,7 +10,7 @@
   <a href="mailto:justinkylependre@gmail.com">Email</a>
 </p>
 
----
+
 
 ## About Me
 
@@ -32,13 +32,12 @@ I'm still learning and improving my skills through school projects and hands-on 
 
 **Currently learning:** Database design, Firebase, Supabase, PostgreSQL, and database integration in Android applications.
 
----
+
 
 ## Interests
 
 Gaming, reading manga and manhwa, and watching anime.
 
----
 
 <p align="center">
   <img src="./Evernight-Lonely.gif" width="350" alt="Evernight GIF">
