@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mizuchi091.github.io/My-portfolio/"><strong>🌐 Visit My Portfolio Website</strong></a>
+  <a href="https://mizuchi091.github.io/Pendre-Portfolio/"><strong>🌐 Visit My Portfolio Website</strong></a>
   |
   <a href="https://github.com/Mizuchi091">GitHub</a>
   |
