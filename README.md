@@ -40,7 +40,7 @@ Gaming, reading manga and manhwa, and watching anime.
 
 
 <p align="center">
-  <img src="./Evernight-Lonely.gif" width="350" alt="Evernight GIF">
+  <img src="./phoenix.gif" width="350" alt="Evernight GIF">
 </p>
 
 <p align="center">
